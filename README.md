@@ -1,0 +1,2 @@
+Welcome to the Calculator project! This is a simple web-based calculator created using HTML, CSS, and JavaScript. The project aims to provide a basic yet functional calculator that can perform standard arithmetic operations like addition, subtraction, multiplication, and division.  This calculator is an excellent tool for practicing web development skills and learning the basics of front-end programming.
+
